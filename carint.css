@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+ul li a{
+    display: flex;
+    color: rgb(red, green, rgb(25, 25, 77));
+}
+.nav2{
+   color: black;
+}
+ ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(60, 60, 73);
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+
+}
+li a{
+    list-style-type: none;
+}
+nav1 ul li a{
+    text-decoration: none;
+    list-style: none;
+    margin-bottom:50px ;
+    margin-left: 20px;
+    font-size: 20px;
+ }
+ nav ul{
+    list-style-type: none;
+ }
+ ul li a{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+    text-align: right;
+ }
+ h1{
+    margin-top: 10px;
+    justify-content: left;
+ }
+ 
+ 
+ .new{
+    display: flex;
+    color: black;
+
+ }
+ ul li a{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+    text-align: right;
+ }
+ .image{
+    font-size: 50px;
+    background:url(carint.jpg);
+    color: rgb(red, green, rgb(74, 74, 88));
+   color: white;
+   padding: 20px;
+   behavior: slide;
+   width: 100%;
+   height: fit-content;
+ }
+ p{
+   font-size: 20px;
+   color: black;
+ }
+ button{
+   background-color: rgb(27, 27, 250);
+   text-align: center;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 20px;
+   padding-right: 20px;
+   text-decoration: none;
+ }
+ .container{
+   display: flex;
+   
+
+ }
+ img{
+   height: 70px;
+   width: 70px;
+ }
+ .cardcontent.btn{
+   color: black;
+   text-decoration: none;
+ }
+ .nav2 ul li a{
+   background-color: white;
+   color: black;
+ }
+ 
+ 
+
+

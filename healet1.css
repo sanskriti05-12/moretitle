@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.new{
+    
+    color: white;
+    background: url(slider-bg.jpg);
+
+    
+}
+
+
+nav ul{
+    display: flex;
+    text-decoration: none;
+    
+    
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+    margin: 20px;
+    text-transform:capitalize ;
+    text-align: left;
+}
+ul li a{
+    text-decoration: none;
+    text-align: right;
+    float: right;
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    float: left;
+}
+h1{
+    padding: 20px;
+}
+.he{
+    display: flex;
+}
+button{
+    color: orangered;
+    margin-left: 40px;
+    background-color: black;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    border-color: orangered;
+    margin-bottom: 40px;
+}
+p{
+    color: white;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    font-size: 20px;
+
+}
+h1{
+    color: white;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    font-size: 50px;
+}
+h3{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 50px;
+}
+.box-container {
+    display: flex;
+    
+}
+.page button{
+    color: white;
+    background-color:rgb(rgb(212, 122, 122), green, blue)
+}
+.about h1{
+    color: black;
+}
+
+
+.us{
+    display: flex;
+}
+ 
+
+.us p {
+    color: black;
+}
+.us img{
+    width: 50%;
+    height: 60%;
+}
+.box-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    background-color: brown;
+    row-gap: 10px;
+    column-gap: 10px;
+
+}
+.box-container .box1{
+ background-color: aquamarine;
+ height: 200px;
+
+ width: 300px;
+}
+.box-container .box1 img{
+    background-image: url(./p1.png);
+    background-image: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+    
+    
+    
+
+
+
+
+    
+    
